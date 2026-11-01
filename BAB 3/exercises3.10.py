@@ -1,0 +1,21 @@
+#setiap fungsi
+
+daftar_gunung = ["lawu","merbabu", "rinjani", "slamet"]
+print(daftar_gunung)
+print('<============================>')
+daftar_gunung.insert(0, "prau")
+daftar_gunung.insert(len(daftar_gunung) // 2, "argopuro")
+daftar_gunung.append("arjuna")
+print(daftar_gunung)
+print("<==========================================>")
+print(sorted(daftar_gunung))
+print(sorted(daftar_gunung, reverse=True))
+daftar_gunung.reverse()
+print(daftar_gunung)
+daftar_gunung.sort()
+print(daftar_gunung)
+daftar_gunung.sort(reverse=True)
+print(daftar_gunung)
+print("<=================================>")
+hapus_daftar = daftar_gunung.pop()
+print(f"jumlah gunung final adalah {len(daftar_gunung)} gunung")
