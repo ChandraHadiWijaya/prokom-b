@@ -1,0 +1,28 @@
+How does it work? This question has been put to me so often by persons young and old that I have at last decided to 
+answer it in such a manner that a much larger public than that with which I have personal acquaintance may be able 
+to satisfy themselves as to the principles underlying many of the mechanisms met with in everyday life.
+
+In order to include steam, electricity, optics, hydraulics, thermics, light, and a variety of detached mechanisms 
+which cannot be classified under any one of these heads, within the compass of about 450 pages, I have to be content with 
+a comparatively brief treatment of each subject. This brevity has in turn compelled me to deal with principles rather than 
+with detailed descriptions of individual devices—though in several cases recognized types are examined. The reader will look 
+in vain for accounts of the Yerkes telescope, of the latest thing in motor cars, and of the largest locomotive. But he will
+be put in the way of understanding the essential nature of all telescopes, motors, and steam-engines so far as they are 
+at present developed, which I think may be of greater ultimate profit to the uninitiated.
+
+While careful to avoid puzzling the reader by the use of mysterious phraseology I consider that the parts of a machine should be
+given their technical names wherever possible. To prevent misconception, many of the diagrams accompanying the letterpress 
+have words as well as letters written on them. This course also obviates the wearisome reference from text to diagram 
+necessitated by the use of solitary letters or figures.
+
+I may add, with regard to the diagrams of this book, that they are purposely somewhat unconventional, not being drawn to scale
+nor conforming to the canons of professional draughtsmanship. Where advisable, a part of a machine has been exaggerated to
+show its details. As a rule solid black has been preferred to fine shading in sectional drawings, and all unnecessary lines are 
+omitted. I would here acknowledge my indebtedness to my draughtsman, Mr. Frank Hodgson, for his care and industry in preparing 
+two hundred or more diagrams for which he was responsible.
+
+Four organs of the body—the eye, the ear, the larynx, and the heart—are noticed in appropriate places. The eye is compared with 
+the camera, the larynx with a reed pipe, the heart with a pump, while the ear fitly opens the chapter on acoustics. 
+The reader who is unacquainted with physiology will thus be enabled to appreciate the better these marvellous devices, far more
+marvellous, by reason of their absolutely automatic action, than any creation of human hands.
+

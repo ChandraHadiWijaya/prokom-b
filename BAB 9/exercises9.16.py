@@ -1,0 +1,1 @@
+print("Baca modul 'random' di https://pymotw.com (tanpa kode).")

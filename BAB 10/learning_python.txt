@@ -1,0 +1,5 @@
+In Python you can menyimpan data menggunakan variabel, list, dan dictionary.
+In Python you can menggunakan perulangan loop dan logika if-else untuk mengatur alur program.
+In Python you can membuat fungsi atau def agar kode bisa digunakan berulang kali.
+In Python you can membangun cetak biru Class seperti Restaurant dan User untuk merapikan kode.
+In Python you can mengimpor modul dari file lain agar program tidak menumpuk di satu tempat.
